@@ -9,6 +9,3 @@ if d>=0:            #有实根
 
 if d<0:             #无实根
     print("该一元二次方程无实数根") 
-
-    
-#Update: Cancel the error report when the original equation has no real roots, and instead report "This one-dimensional quadratic equation has no real roots"(2022/6/1)
